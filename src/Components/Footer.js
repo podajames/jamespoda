@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Footer = ({ data }) => {
   if (data) {
@@ -21,9 +21,9 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              Made by{" "}
-              <a title="PAPA" href="http://www.papareact.com/">
-                PAPA
+              Made by{' '}
+              <a title="Poda" href="https://learnhub-f8168.web.app/">
+                Poda
               </a>
             </li>
           </ul>
